@@ -1,7 +1,7 @@
 function setup() {
   // setup of the sketch
-  createCanvas(2000, 800);
-  background(20, 20, 255);
+  createCanvas(windowWidth, windowHeight);
+  background(0);
   rectMode(CENTER)
 }
 
