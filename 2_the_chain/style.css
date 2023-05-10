@@ -1,0 +1,12 @@
+.blue-big-text {
+    color: blue;
+    font-size: 25px;
+}
+
+.italic-red-medium{
+    font-size: 1.5rem;
+    color: rgb(255, 0, 255);
+    color: red
+    color: #ff00;
+    color: rgba(255,0,255,0.5)
+}
