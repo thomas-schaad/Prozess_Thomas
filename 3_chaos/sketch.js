@@ -5,7 +5,7 @@ function setup() {
   }
 
   function draw() {
-    background(255);
+    background(0);
     //randomSeed(2)
     let tile = 10;
     let randomMax=8;
