@@ -32,3 +32,8 @@ for (let i = 0; i < rect_sizes.length; i++) {
  }
  angle = angle + 10
  }
+
+function mousePressed() {
+  clear();
+  background(0);
+}
